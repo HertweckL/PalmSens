@@ -1,0 +1,402 @@
+Applied potential (V)   WE current (A)
+          0     -2.273e-09
+Applied potential (V)   WE current (A)
+    0.01001     -2.095e-09
+Applied potential (V)   WE current (A)
+    0.02002     -1.888e-09
+Applied potential (V)   WE current (A)
+    0.03002     -1.719e-09
+Applied potential (V)   WE current (A)
+    0.04003     -1.682e-09
+Applied potential (V)   WE current (A)
+    0.05004     -1.653e-09
+Applied potential (V)   WE current (A)
+    0.06005     -1.588e-09
+Applied potential (V)   WE current (A)
+    0.07005     -1.522e-09
+Applied potential (V)   WE current (A)
+    0.08006     -1.456e-09
+Applied potential (V)   WE current (A)
+    0.09007     -1.447e-09
+Applied potential (V)   WE current (A)
+     0.1001     -1.381e-09
+Applied potential (V)   WE current (A)
+     0.1101     -1.231e-09
+Applied potential (V)   WE current (A)
+     0.1201     -1.325e-09
+Applied potential (V)   WE current (A)
+     0.1301       -1.4e-09
+Applied potential (V)   WE current (A)
+     0.1401     -1.409e-09
+Applied potential (V)   WE current (A)
+     0.1501     -1.372e-09
+Applied potential (V)   WE current (A)
+     0.1601     -1.381e-09
+Applied potential (V)   WE current (A)
+     0.1701     -1.362e-09
+Applied potential (V)   WE current (A)
+     0.1801     -1.259e-09
+Applied potential (V)   WE current (A)
+     0.1901     -1.212e-09
+Applied potential (V)   WE current (A)
+     0.2002     -1.165e-09
+Applied potential (V)   WE current (A)
+     0.2102      -1.09e-09
+Applied potential (V)   WE current (A)
+     0.2202     -1.071e-09
+Applied potential (V)   WE current (A)
+     0.2302     -1.005e-09
+Applied potential (V)   WE current (A)
+     0.2402      -9.77e-10
+Applied potential (V)   WE current (A)
+     0.2502     -8.925e-10
+Applied potential (V)   WE current (A)
+     0.2602     -8.643e-10
+Applied potential (V)   WE current (A)
+     0.2702     -8.079e-10
+Applied potential (V)   WE current (A)
+     0.2802     -7.422e-10
+Applied potential (V)   WE current (A)
+     0.2902     -5.918e-10
+Applied potential (V)   WE current (A)
+     0.3002     -3.946e-10
+Applied potential (V)   WE current (A)
+     0.3102     -1.409e-10
+Applied potential (V)   WE current (A)
+     0.3202      9.394e-11
+Applied potential (V)   WE current (A)
+     0.3303      3.288e-10
+Applied potential (V)   WE current (A)
+     0.3403      5.731e-10
+Applied potential (V)   WE current (A)
+     0.3503      7.328e-10
+Applied potential (V)   WE current (A)
+     0.3603      9.676e-10
+Applied potential (V)   WE current (A)
+     0.3703      1.156e-09
+Applied potential (V)   WE current (A)
+     0.3803      1.296e-09
+Applied potential (V)   WE current (A)
+     0.3903      1.353e-09
+Applied potential (V)   WE current (A)
+     0.4003      1.663e-09
+Applied potential (V)   WE current (A)
+     0.4103      1.907e-09
+Applied potential (V)   WE current (A)
+     0.4203      2.095e-09
+Applied potential (V)   WE current (A)
+     0.4303      2.189e-09
+Applied potential (V)   WE current (A)
+     0.4403       2.32e-09
+Applied potential (V)   WE current (A)
+     0.4503       2.49e-09
+Applied potential (V)   WE current (A)
+     0.4604      2.696e-09
+Applied potential (V)   WE current (A)
+     0.4704      2.875e-09
+Applied potential (V)   WE current (A)
+     0.4804      2.987e-09
+Applied potential (V)   WE current (A)
+     0.4904      3.025e-09
+Applied potential (V)   WE current (A)
+     0.5004        3.1e-09
+Applied potential (V)   WE current (A)
+     0.4904      3.185e-09
+Applied potential (V)   WE current (A)
+     0.4804      3.147e-09
+Applied potential (V)   WE current (A)
+     0.4704      3.269e-09
+Applied potential (V)   WE current (A)
+     0.4604      4.584e-09
+Applied potential (V)   WE current (A)
+     0.4503      3.589e-09
+Applied potential (V)   WE current (A)
+     0.4403      2.443e-09
+Applied potential (V)   WE current (A)
+     0.4303      2.583e-09
+Applied potential (V)   WE current (A)
+     0.4203      2.677e-09
+Applied potential (V)   WE current (A)
+     0.4103      2.743e-09
+Applied potential (V)   WE current (A)
+     0.4003      3.579e-09
+Applied potential (V)   WE current (A)
+     0.3903      3.514e-09
+Applied potential (V)   WE current (A)
+     0.3803      3.485e-09
+Applied potential (V)   WE current (A)
+     0.3703      3.429e-09
+Applied potential (V)   WE current (A)
+     0.3603       3.42e-09
+Applied potential (V)   WE current (A)
+     0.3503      3.344e-09
+Applied potential (V)   WE current (A)
+     0.3403      3.335e-09
+Applied potential (V)   WE current (A)
+     0.3303      3.344e-09
+Applied potential (V)   WE current (A)
+     0.3202      3.307e-09
+Applied potential (V)   WE current (A)
+     0.3102      3.307e-09
+Applied potential (V)   WE current (A)
+     0.3002       3.41e-09
+Applied potential (V)   WE current (A)
+     0.2902      3.589e-09
+Applied potential (V)   WE current (A)
+     0.2802      3.786e-09
+Applied potential (V)   WE current (A)
+     0.2702      3.889e-09
+Applied potential (V)   WE current (A)
+     0.2602      3.964e-09
+Applied potential (V)   WE current (A)
+     0.2502       4.04e-09
+Applied potential (V)   WE current (A)
+     0.2402      4.162e-09
+Applied potential (V)   WE current (A)
+     0.2302      4.209e-09
+Applied potential (V)   WE current (A)
+     0.2202      4.171e-09
+Applied potential (V)   WE current (A)
+     0.2102      4.359e-09
+Applied potential (V)   WE current (A)
+     0.2002      4.566e-09
+Applied potential (V)   WE current (A)
+     0.1901      4.688e-09
+Applied potential (V)   WE current (A)
+     0.1801      4.697e-09
+Applied potential (V)   WE current (A)
+     0.1701      4.754e-09
+Applied potential (V)   WE current (A)
+     0.1601      4.876e-09
+Applied potential (V)   WE current (A)
+     0.1501      5.017e-09
+Applied potential (V)   WE current (A)
+     0.1401      5.129e-09
+Applied potential (V)   WE current (A)
+     0.1301      5.167e-09
+Applied potential (V)   WE current (A)
+     0.1201      5.186e-09
+Applied potential (V)   WE current (A)
+     0.1101      5.195e-09
+Applied potential (V)   WE current (A)
+     0.1001      5.082e-09
+Applied potential (V)   WE current (A)
+    0.09007      5.026e-09
+Applied potential (V)   WE current (A)
+    0.08006      5.073e-09
+Applied potential (V)   WE current (A)
+    0.07005      5.026e-09
+Applied potential (V)   WE current (A)
+    0.06005      4.885e-09
+Applied potential (V)   WE current (A)
+    0.05004      4.725e-09
+Applied potential (V)   WE current (A)
+    0.04003      4.566e-09
+Applied potential (V)   WE current (A)
+    0.03002      4.293e-09
+Applied potential (V)   WE current (A)
+    0.02002      4.002e-09
+Applied potential (V)   WE current (A)
+    0.01001       3.73e-09
+Applied potential (V)   WE current (A)
+          0      3.438e-09
+Applied potential (V)   WE current (A)
+   -0.01001      3.166e-09
+Applied potential (V)   WE current (A)
+   -0.02002      2.875e-09
+Applied potential (V)   WE current (A)
+   -0.03002      2.612e-09
+Applied potential (V)   WE current (A)
+   -0.04003      2.358e-09
+Applied potential (V)   WE current (A)
+   -0.05004       2.17e-09
+Applied potential (V)   WE current (A)
+   -0.06005      1.945e-09
+Applied potential (V)   WE current (A)
+   -0.07005      1.738e-09
+Applied potential (V)   WE current (A)
+   -0.08006      1.456e-09
+Applied potential (V)   WE current (A)
+   -0.09007      1.099e-09
+Applied potential (V)   WE current (A)
+    -0.1001      7.797e-10
+Applied potential (V)   WE current (A)
+    -0.1101      4.791e-10
+Applied potential (V)   WE current (A)
+    -0.1201      2.349e-10
+Applied potential (V)   WE current (A)
+    -0.1301              0
+Applied potential (V)   WE current (A)
+    -0.1401     -6.792e-10
+Applied potential (V)   WE current (A)
+    -0.1501     -7.036e-10
+Applied potential (V)   WE current (A)
+    -0.1601     -7.243e-10
+Applied potential (V)   WE current (A)
+    -0.1701     -7.478e-10
+Applied potential (V)   WE current (A)
+    -0.1801     -7.713e-10
+Applied potential (V)   WE current (A)
+    -0.1901     -7.976e-10
+Applied potential (V)   WE current (A)
+    -0.2002     -8.286e-10
+Applied potential (V)   WE current (A)
+    -0.2102     -8.549e-10
+Applied potential (V)   WE current (A)
+    -0.2202      -8.85e-10
+Applied potential (V)   WE current (A)
+    -0.2302     -9.207e-10
+Applied potential (V)   WE current (A)
+    -0.2402     -9.639e-10
+Applied potential (V)   WE current (A)
+    -0.2502     -9.977e-10
+Applied potential (V)   WE current (A)
+    -0.2602     -1.032e-09
+Applied potential (V)   WE current (A)
+    -0.2702     -1.069e-09
+Applied potential (V)   WE current (A)
+    -0.2802     -1.114e-09
+Applied potential (V)   WE current (A)
+    -0.2902     -1.147e-09
+Applied potential (V)   WE current (A)
+    -0.3002     -1.179e-09
+Applied potential (V)   WE current (A)
+    -0.3102     -1.217e-09
+Applied potential (V)   WE current (A)
+    -0.3202     -1.272e-09
+Applied potential (V)   WE current (A)
+    -0.3303     -1.295e-09
+Applied potential (V)   WE current (A)
+    -0.3403     -1.335e-09
+Applied potential (V)   WE current (A)
+    -0.3503     -1.378e-09
+Applied potential (V)   WE current (A)
+    -0.3603     -1.419e-09
+Applied potential (V)   WE current (A)
+    -0.3703     -1.457e-09
+Applied potential (V)   WE current (A)
+    -0.3803     -1.497e-09
+Applied potential (V)   WE current (A)
+    -0.3903     -1.531e-09
+Applied potential (V)   WE current (A)
+    -0.4003     -1.568e-09
+Applied potential (V)   WE current (A)
+    -0.4103     -5.486e-10
+Applied potential (V)   WE current (A)
+    -0.4203     -5.909e-10
+Applied potential (V)   WE current (A)
+    -0.4303     -6.332e-10
+Applied potential (V)   WE current (A)
+    -0.4403     -6.792e-10
+Applied potential (V)   WE current (A)
+    -0.4503     -7.262e-10
+Applied potential (V)   WE current (A)
+    -0.4604     -7.826e-10
+Applied potential (V)   WE current (A)
+    -0.4704     -8.305e-10
+Applied potential (V)   WE current (A)
+    -0.4804      -8.85e-10
+Applied potential (V)   WE current (A)
+    -0.4904     -9.394e-10
+Applied potential (V)   WE current (A)
+    -0.5004     -1.006e-09
+Applied potential (V)   WE current (A)
+    -0.4904     -1.054e-09
+Applied potential (V)   WE current (A)
+    -0.4804     -1.115e-09
+Applied potential (V)   WE current (A)
+    -0.4704      -1.17e-09
+Applied potential (V)   WE current (A)
+    -0.4604     -1.224e-09
+Applied potential (V)   WE current (A)
+    -0.4503     -1.279e-09
+Applied potential (V)   WE current (A)
+    -0.4403     -1.346e-09
+Applied potential (V)   WE current (A)
+    -0.4303     -1.408e-09
+Applied potential (V)   WE current (A)
+    -0.4203      -1.48e-09
+Applied potential (V)   WE current (A)
+    -0.4103     -1.556e-09
+Applied potential (V)   WE current (A)
+    -0.4003     -1.623e-09
+Applied potential (V)   WE current (A)
+    -0.3903      -1.69e-09
+Applied potential (V)   WE current (A)
+    -0.3803     -2.247e-09
+Applied potential (V)   WE current (A)
+    -0.3703     -2.329e-09
+Applied potential (V)   WE current (A)
+    -0.3603     -2.372e-09
+Applied potential (V)   WE current (A)
+    -0.3503     -2.412e-09
+Applied potential (V)   WE current (A)
+    -0.3403     -1.975e-09
+Applied potential (V)   WE current (A)
+    -0.3303     -2.176e-09
+Applied potential (V)   WE current (A)
+    -0.3202     -2.258e-09
+Applied potential (V)   WE current (A)
+    -0.3102     -2.336e-09
+Applied potential (V)   WE current (A)
+    -0.3002      -2.42e-09
+Applied potential (V)   WE current (A)
+    -0.2902     -2.508e-09
+Applied potential (V)   WE current (A)
+    -0.2802     -2.593e-09
+Applied potential (V)   WE current (A)
+    -0.2702     -2.669e-09
+Applied potential (V)   WE current (A)
+    -0.2602     -2.752e-09
+Applied potential (V)   WE current (A)
+    -0.2502      -2.83e-09
+Applied potential (V)   WE current (A)
+    -0.2402     -2.899e-09
+Applied potential (V)   WE current (A)
+    -0.2302     -2.964e-09
+Applied potential (V)   WE current (A)
+    -0.2202     -3.037e-09
+Applied potential (V)   WE current (A)
+    -0.2102     -3.105e-09
+Applied potential (V)   WE current (A)
+    -0.2002     -3.194e-09
+Applied potential (V)   WE current (A)
+    -0.1901     -3.283e-09
+Applied potential (V)   WE current (A)
+    -0.1801     -3.345e-09
+Applied potential (V)   WE current (A)
+    -0.1701     -3.407e-09
+Applied potential (V)   WE current (A)
+    -0.1601     -3.458e-09
+Applied potential (V)   WE current (A)
+    -0.1501     -3.503e-09
+Applied potential (V)   WE current (A)
+    -0.1401     -3.545e-09
+Applied potential (V)   WE current (A)
+    -0.1301     -3.581e-09
+Applied potential (V)   WE current (A)
+    -0.1201     -3.599e-09
+Applied potential (V)   WE current (A)
+    -0.1101     -3.607e-09
+Applied potential (V)   WE current (A)
+    -0.1001       -3.6e-09
+Applied potential (V)   WE current (A)
+   -0.09007     -3.572e-09
+Applied potential (V)   WE current (A)
+   -0.08006      -3.52e-09
+Applied potential (V)   WE current (A)
+   -0.07005     -3.439e-09
+Applied potential (V)   WE current (A)
+   -0.06005     -3.348e-09
+Applied potential (V)   WE current (A)
+   -0.05004     -3.219e-09
+Applied potential (V)   WE current (A)
+   -0.04003     -3.064e-09
+Applied potential (V)   WE current (A)
+   -0.03002     -2.876e-09
+Applied potential (V)   WE current (A)
+   -0.02002     -2.666e-09
+Applied potential (V)   WE current (A)
+   -0.01001     -2.438e-09
+Applied potential (V)   WE current (A)
+          0     -2.193e-09
