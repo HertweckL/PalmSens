@@ -17,5 +17,5 @@ meas_loop_cv p c 0m 500m -500m 10m 100m
 	pck_add c
 	pck_end
 endloop
-cell_off
+cell_off\n
 
